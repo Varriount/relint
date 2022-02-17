@@ -1,7 +1,7 @@
 import argparse
 import fnmatch
 import glob
-import re
+import regex
 import sys
 import warnings
 from collections import namedtuple
